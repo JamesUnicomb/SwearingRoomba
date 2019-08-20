@@ -6,6 +6,18 @@
 
 ## The Parts
 
+<p align="center">
+<img src="https://github.com/JamesUnicomb/SwearingRoomba/blob/master/shield_assembled.JPG" width="240" />
+</p>
+
+<p align="center">
+<img src="https://github.com/JamesUnicomb/SwearingRoomba/blob/master/shield_mega.JPG" width="240" />
+</p>
+
+<p align="center">
+<img src="https://github.com/JamesUnicomb/SwearingRoomba/blob/master/prototype.JPG" width="240" />
+</p>
+
 ### DFRobot Mini MP3 Player
 https://www.dfrobot.com/product-1121.html
 
